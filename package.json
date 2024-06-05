@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "build": "tsc && npx vite build",
+    "preview": "npx vite preview"
   },
   "repository": {
     "type": "git",
